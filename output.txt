@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+int x = 5;
+
+int y = 10;
+
+// Verifica daca x este mai mare
+if(x > y) {
+
+System.out.print("X este mai mare");
+
+} else {
+
+System.out.print("Y este mai mare");
+
+}
+
+    }
+}
